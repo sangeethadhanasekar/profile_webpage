@@ -1,0 +1,49 @@
+
+body {
+
+  background-image: url("images/download3.jpg");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+#name1{
+  text-align:center;
+  font-family:Geneva;
+  font-size:300%;
+  padding:3%
+}
+#name2{
+  text-align:center;
+  font-family:Brush Script MT;
+  font-size:400%;
+  padding:0%
+}
+
+.heading{
+      text-shadow:2px 2px #4a0263;
+      font-family:Garamond;
+      font-weight:100%;
+      font-size:250%
+}
+
+
+.sub{
+  list-style-image:url('sqpurple.gif');
+  
+  text-shadow:1px 1px #1b0124;
+  color: #0d0112;
+  font-weight:100%;
+  font-size:200%
+
+}
+
+p{    
+   text-shadow:1px 1px 1px #1b0124;
+  font-weight:100%;
+  font-size:200%
+}   
+
+hr{ 
+border: 2px solid #e310ab
+}
